@@ -88,7 +88,7 @@ onMounted(() => {
 }
 
 .logoText {
-	margin-left: var(--spacing-xs);
+	margin-left: var(--spacing-s);
 	margin-right: var(--spacing-3xs);
 }
 
